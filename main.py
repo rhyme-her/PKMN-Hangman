@@ -13,14 +13,6 @@
     # The player can also choose to catch the Pokemon. If Hp is less than half, then 1/6. If less than 1/4 , catch chance will be 1/2.
         # If successful, the word is shown (w/victory).
 
-# Graphical Layout
-    # Title Screen
-        # UI is developed through photoshop and Python.
-    # In-Game:
-        # Health Bar for opponent will be a green bar.
-        # Everytime a correct letter is guessed, opponent's health bar will shrink by 1/n. Where n is the amount of letters.
-        # Everytime the user guesses wrong, health bar will go down by 1/6.
-
 # Graphic Notes
     # Stoke Value = 5
     # Yellow: ffcb05

@@ -1,5 +1,7 @@
 # Hangman.py
-#   by Rhyme Her
+By Rhyme Her
+Created: 2016-01
+
 
 # HOW TO PLAY w/POKEMON MECHANICS
     # The catching feature allows players to capture/tame the Pokemon.
@@ -10,8 +12,15 @@
 
 
 # Pokemon Themed Hangman.
-# Categories:
+## Categories:
     # Pokemon - All 720 Pokemon (Note: There are Pokemon that carry the same name but are different).
     # Pokemon - Items
     # Pokemon - Attacks
     # Pokemon - Abilities
+
+## Graphical Layout
+Title Screen:   UI is developed through photoshop and Python.
+
+In-Game:        Health Bar for opponent will be a green bar.
+                Everytime a correct letter is guessed, opponent's health bar will shrink by 1/n. Where n is the amount of letters.
+                Everytime the user guesses wrong, health bar will go down by 1/6.
