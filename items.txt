@@ -1,0 +1,422 @@
+Ability Capsule
+Ability Urge
+Abomasite
+Absolite
+Absorb Bulb
+Adamant Orb
+Adventure Rules
+Aerodactylite
+Aggronite
+Aguav Berry
+Air Balloon
+Alakazite
+Ampharosite
+Amulet Coin
+Antidote
+Apicot Berry
+Armor Fossil
+Aspear Berry
+Awakening
+Babiri Berry
+BalmMushroom
+Banettite
+Belue Berry
+Berry Juice
+Big Mushroom
+Big Nugget
+Big Pearl
+Big Root
+Binding Band
+Black Belt
+Black Flute
+Black Sludge
+BlackGlasses
+Blastoisinite
+Blazikenite
+Blk Apricorn
+Blu Apricorn
+Blue Flute
+Blue Scarf
+Blue Shard
+Bluk Berry
+BrightPowder
+Bug Gem
+Burn Drive
+Burn Heal
+Calcium
+Carbos
+Casteliacone
+Cell Battery
+Charcoal
+Charizardite X
+Charizardite Y
+Charti Berry
+Cheri Berry
+Cherish Ball
+Chesto Berry
+Chilan Berry
+Chill Drive
+Choice Band
+Choice Scarf
+Choice Specs
+Chople Berry
+Claw Fossil
+Cleanse Tag
+Clever Wing
+Coba Berry
+Colbur Berry
+Colress Machine
+Comet Shard
+Cornn Berry
+Cover Fossil
+Custap Berry
+Damp Mulch
+Damp Rock
+Dark Gem
+Dawn Stone
+DeepSeaScale
+DeepSeaTooth
+Destiny Knot
+Dire Hit
+Dive Ball
+DNA Splicers
+Dome Fossil
+Douse Drive
+Draco Plate
+Dragon Fang
+Dragon Gem
+Dragon Scale
+Dread Plate
+Dream Ball
+Dropped Item
+Dubious Disc
+Durin Berry
+Dusk Ball
+Dusk Stone
+Earth Plate
+Eject Button
+Electirizer
+Electric Gem
+Elevator Key
+Elixir
+Energy Root
+EnergyPowder
+Enigma Berry
+Escape Rope
+Ether
+Everstone
+Eviolite
+Exp Share
+Expert Belt
+Fairy Gem
+Fast Ball
+Fighting Gem
+Figy Berry
+Fire Gem
+Fire Stone
+Fist Plate
+Flame Orb
+Flame Plate
+Float Stone
+Fluffy Tail
+Flying Gem
+Focus Band
+Focus Sash
+Fresh Water
+Friend Ball
+Full Heal
+Full Incense
+Full Restore
+Ganlon Berry
+Garchompite
+Gardevoirite
+Gengarite
+Genius Wing
+Ghost Gem
+Gooey Mulch
+Grass Gem
+Great Ball
+Green Scarf
+Green Shard
+Grepa Berry
+Grip Claw
+Griseous Orb
+Grn Apricorn
+Ground Gem
+Growth Mulch
+Grubby Hanky
+Guard Spec
+Gyaradosite
+Haban Berry
+Hard Stone
+Heal Ball
+Heal Powder
+Health Wing
+Heart Scale
+Heat Rock
+Heavy Ball
+Helix Fossil
+Heracronite
+Holo Caster
+Hondew Berry
+Honey
+Honor Of Kalos
+Houndoominite
+HP Up
+Hyper Potion
+Iapapa Berry
+Ice Gem
+Ice Heal
+Icicle Plate
+Icy Rock
+Insect Plate
+Intriguing Stone
+Iron
+Iron Ball
+Iron Plate
+Item Drop
+Item Urge
+Jaboca Berry
+Kangaskhanite
+Kasib Berry
+Kebia Berry
+Kelpsy Berry
+Lagging Tail
+Lansat Berry
+Lava Cookie
+Lax Incense
+Leaf Stone
+Leftovers
+Lemonade
+Lens Case
+Leppa Berry
+Level Ball
+Liechi Berry
+Life Orb
+Light Ball
+Light Clay
+Looker Ticket
+Love Ball
+Lucarionite
+Luck Incense
+Lucky Egg
+Lucky Punch
+Lum Berry
+Lure Ball
+Lustrous Orb
+Luxury Ball
+Macho Brace
+Magmarizer
+Magnet
+Mago Berry
+Magost Berry
+Manectite
+Master Ball
+Mawilite
+Max Elixir
+Max Ether
+Max Potion
+Max Repel
+Max Revive
+Meadow Plate
+Medal Box
+Medichamite
+Mental Herb
+Metal Coat
+Metal Powder
+Metronome
+Mewtwonite X
+Mewtwonite Y
+Micle Berry
+Mind Plate
+Miracle Seed
+Moomoo Milk
+Moon Ball
+Moon Stone
+Muscle Band
+Muscle Wing
+Mystic Water
+Nanab Berry
+Nest Ball
+Net Ball
+NeverMeltIce
+Nomel Berry
+Normal Gem
+Nugget
+Occa Berry
+Odd Incense
+Odd Keystone
+Old Amber
+Old Gateau
+Oran Berry
+Oval Charm
+Oval Stone
+Pamtre Berry
+Park Ball
+Parlyz Heal
+Pass Orb
+Passho Berry
+Payapa Berry
+Pearl
+Pearl String
+Pecha Berry
+Permit
+Persim Berry
+Petaya Berry
+Pinap Berry
+Pink Scarf
+Pinsirite
+Pixie Plate
+Plasma Card
+Plume Fossil
+Pnk Apricorn
+Poison Barb
+Poison Gem
+Poke Ball
+Poke Doll
+Poke Toy
+Pomeg Berry
+Potion
+Power Anklet
+Power Band
+Power Belt
+Power Bracer
+Power Herb
+Power Lens
+Power Plant Pass
+Power Weight
+PP Max
+PP Up
+Premier Ball
+Pretty Wing
+Prism Scale
+Protector
+Protein
+Psychic Gem
+Pure Incense
+Qualot Berry
+Quick Ball
+Quick Claw
+Quick Powder
+Rabuta Berry
+Rare Bone
+Rare Candy
+Rawst Berry
+Razor Claw
+Razor Fang
+Razz Berry
+Reaper Cloth
+Red Apricorn
+Red Card
+Red Flute
+Red Scarf
+Red Shard
+Relic Band
+Relic Copper
+Relic Crown
+Relic Gold
+Relic Silver
+Relic Statue
+Relic Vase
+Repeat Ball
+Repel
+Reset Urge
+Resist Wing
+Reveal Glass
+Revival Herb
+Revive
+Rindo Berry
+Ring Target
+Rock Gem
+Rock Incense
+Rocky Helmet
+Roller Skates
+Root Fossil
+Rose Incense
+Rowap Berry
+Sacred Ash
+Safari Ball
+Salac Berry
+Scizorite
+Scope Lens
+Sea Incense
+Sharp Beak
+Shed Shell
+Shell Bell
+Shiny Charm
+Shiny Stone
+Shoal Salt
+Shoal Shell
+Shock Drive
+Shuca Berry
+Silk Scarf
+SilverPowder
+Sitrus Berry
+Skull Fossil
+Sky Plate
+Smoke Ball
+Smooth Rock
+Soda Pop
+Soft Sand
+Soothe Bell
+Soul Dew
+Spell Tag
+Spelon Berry
+Splash Plate
+Spooky Plate
+Sport Ball
+Sprinklotad
+Stable Mulch
+Star Piece
+Stardust
+Starf Berry
+Steel Gem
+Stick
+Sticky Barb
+Stone Plate
+Sun Stone
+Super Potion
+Super Repel
+Sweet Heart
+Swift Wing
+Tamato Berry
+Tanga Berry
+Thick Club
+Thunderstone
+Timer Ball
+TinyMushroom
+TMV Pass
+Toxic Orb
+Toxic Plate
+TwistedSpoon
+Tyranitarite
+Ultra Ball
+Up-Grade
+Venusaurite
+Wacan Berry
+Water Gem
+Water Stone
+Watmel Berry
+Wave Incense
+Wepear Berry
+White Flute
+White Herb
+Wht Apricorn
+Wide Lens
+Wiki Berry
+Wise Glasses
+X Accuracy
+X Attack
+X Defend
+X Sp Def
+X Special
+X Speed
+Yache Berry
+Yellow Flute
+Yellow Scarf
+Yellow Shard
+Yellow Apricorn
+Zap Plate
+Zinc
+Zoom Lens
+
