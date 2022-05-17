@@ -1,21 +1,3 @@
-# Hangman.py
-#   by Rhyme Her
-
-# HOW TO PLAY w/POKEMON MECHANICS
-    # The catching feature allows players to capture/tame the Pokemon.
-        # The more you have weakened it with guessing the right letters, the higher chance of capture.
-        # Capturing results in an immediate win.
-    # Running away causes you to go back to the menu.
-    # There are a lot of easter eggs!
-
-
-# Pokemon Themed Hangman.
-# Categories:
-    # Pokemon - All 720 Pokemon (Note: There are Pokemon that carry the same name but are different).
-    # Pokemon - Items
-    # Pokemon - Attacks
-    # Pokemon - Abilities
-
 # Simple Algorithm
     # 1. Program is executed.
     # 2. Player can pick between the four categories or exit.
@@ -51,7 +33,7 @@
 from graphics import *
 from button import *
 from random import *
-from time import * # --- Chapter 7.7
+from time import * 
 
 def menu(win):
     try:
@@ -281,7 +263,7 @@ def engine(win,pokelist,maxnum):
             enemyno = x                  # Fun easter egg. The Pokemon name will correspond with the image when it is this category.
         if enemyno > 232 and x < 522:
             enemyno = enemyno + 1       # Fixs bug where program would start displaying the wrong Pokemon at these points in the list
-        enemyno = str(enemyno) + ".gif"
+        enemyno = "/monster" + str(enemyno) + ".gif"
         enemyno = Image(Point(430,450),enemyno)
         enemyno.draw(win)               # Opponent Image
 
