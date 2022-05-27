@@ -255,7 +255,7 @@ def engine(win,pokelist,maxnum):
             enemyno = x                  # Fun easter egg. The Pokemon name will correspond with the image when it is this category.
         if enemyno > 232 and x < 522:
             enemyno = enemyno + 1       # Fixs bug where program would start displaying the wrong Pokemon at these points in the list
-        enemyno = "/monster" + str(enemyno) + ".gif"
+        enemyno = "monster/" + str(enemyno) + ".gif"
         enemyno = Image(Point(430,450),enemyno)
         enemyno.draw(win)               # Opponent Image
 
